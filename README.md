@@ -45,6 +45,6 @@ Great, now we are authorized to use the Slack API as a bot.
 
 Now everything is ready to go , launch your Bot with this command
 ```bash
-python starterbot.py
+python WarplyPaw.py
 ```
 
