@@ -35,7 +35,7 @@ randomfacts = [
 ]
 
 # Global Variables
-BOT_ID = os.environ.get("BOT_ID")
+# BOT_ID = os.environ.get("BOT_ID")
 token = os.environ.get('SLACK_BOT_TOKEN')
 admin = " "
 
@@ -58,8 +58,8 @@ except sqlite3.OperationalError:
 def send_message(msg, chnl):
     sc.api_call("chat.postMessage", channel=chnl, text=msg, username="WarplyPaw", as_user="WarplyPaw")
 
-
-clients = ["eurobank", "nestle", "nag", "nbginsurance", "heineken", "cnn", "carefour", "dominos"]
+# You can change this
+clients = ["client1", "client2", "client3"]
 activities = ["development", "testing", "designing"]
 departments = ["delivery", "marketing", "design"]
 
