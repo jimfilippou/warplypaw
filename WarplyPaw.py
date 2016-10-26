@@ -37,7 +37,7 @@ randomfacts = [
 # Global Variables
 BOT_ID = os.environ.get("BOT_ID")
 token = os.environ.get('SLACK_BOT_TOKEN')
-admin = "U02KGLL5V"
+admin = " "
 
 # Create SQLite Database
 cn = sqlite3.connect('WarplyDatabase.db')
