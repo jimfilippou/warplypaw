@@ -85,6 +85,13 @@ while True:
                         elif message == "ok":
                             send_message("okay!", user)
 
+                        elif message == "new_week_inform":
+                            send_message("Week " + str(datetime.date.today().isocalendar()[1]) + " Has Started! Get Your Timesheets Started ",user)
+                        
+                        elif message == "get template":
+
+                            send_message("Test",user)
+
                         else:
                             continue
                     else:
