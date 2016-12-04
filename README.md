@@ -6,7 +6,7 @@ Author : Dimitris Filippou
 
 #Warply Smart Bot
 
-Description Here
+WarplyPaw is our company's automation slack bot , he is a cat and lives under our servers. 
 
 #Installing Bot
 ###Getting Our Environment Ready
