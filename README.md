@@ -1,6 +1,5 @@
 # WarplyPaw
 
-Author : Dimitris Filippou
 
 !["Text"](https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAe4AAAAJDFmMGQ5ODI2LWI4ZmItNDRlOC1iZmRjLTNmZDk2N2NkMTA0Mw.png "Warply")
 
